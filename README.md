@@ -8,5 +8,5 @@ Introdução a lógica de programação com o Scratch
 Luiz Henrique
 
 ## Projetos
-[Calculo da media](https://scratch.mit.edu/projects/882634745) -----
-[Calculo de temperatura](https://scratch.mit.edu/projects/882609225)
+-[Calculo da media](https://scratch.mit.edu/projects/882634745) 
+-[Calculo de temperatura](https://scratch.mit.edu/projects/882609225)
