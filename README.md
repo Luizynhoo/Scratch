@@ -6,3 +6,5 @@
 Introdução a lógica de programação com o Scratch
 ## Autor
 Luiz Henrique
+## Projetos
+[Boletim](https://scratch.mit.edu/projects/882634745)
