@@ -11,3 +11,4 @@ Luiz Henrique
 - [Calculo da media](https://scratch.mit.edu/projects/882634745) 
 - [Calculo de temperatura](https://scratch.mit.edu/projects/882609225)
 - [Conversão de Milhas para km](https://scratch.mit.edu/projects/884617954)
+- [App para calcular o preço de venda do produto](https://scratch.mit.edu/projects/884655680)
