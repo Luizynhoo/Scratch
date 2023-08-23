@@ -14,3 +14,4 @@ Luiz Henrique
 - [App para calcular o preço de venda do produto](https://scratch.mit.edu/projects/884655680)
 - [App - Valor da hora de serviço](https://scratch.mit.edu/projects/884978196)
 - [Libra em kg](https://scratch.mit.edu/projects/885001399)
+- [Boletim](https://scratch.mit.edu/projects/885284708)
