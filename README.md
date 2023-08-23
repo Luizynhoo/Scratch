@@ -18,4 +18,5 @@ Luiz Henrique
 - [Lucro](https://scratch.mit.edu/projects/885287952)
 
 ## a hora do código
-![certificado]()
+![certificado](https://github.com/Luizynhoo/Scratch/assets/115747386/c6b8c360-4fe5-421d-b418-338d5aef756c)
+
