@@ -19,6 +19,7 @@ Luiz Henrique
 - [Posto](https://scratch.mit.edu/projects/887262948)
 - [calculadora RealxDolar](https://scratch.mit.edu/projects/888438995)
 - [AND](https://scratch.mit.edu/projects/889239776)
+- [URNA](https://scratch.mit.edu/projects/889253424)
 
 ## a hora do código
 ![certificado](https://github.com/Luizynhoo/Scratch/assets/115747386/c6b8c360-4fe5-421d-b418-338d5aef756c)
